@@ -127,3 +127,9 @@ section {
     padding: 50px;
     border-bottom: 1px solid #ddd;
 }
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto; /* opcional, para centrar */
+}
